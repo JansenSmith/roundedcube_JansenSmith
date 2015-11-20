@@ -6,3 +6,4 @@ CSG roundedCube = new RoundedCube(	size,// X dimention
 				)
 				.cornerRadius(size/10)
 				.toCSG()
+return roundedCube
